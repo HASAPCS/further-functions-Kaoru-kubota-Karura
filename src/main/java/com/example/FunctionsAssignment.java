@@ -14,7 +14,7 @@ public class FunctionsAssignment {
         return "tac"; // Replace with your implementation
     }
 
-    // TODO: Implement a method to return a greeting message of the format: "Hello, John!"
+    // TODO: Implement a method to return a greeting message of the format: "Hello, John!" 
     public String greeting(String name) {
         return "Hello, John!"; // Replace with your implementation
     }
@@ -30,7 +30,7 @@ public class FunctionsAssignment {
     public boolean isPalindrome(String str) {
         int l =0;
         l = str.length();
-        return ; // Replace with your implementation
+        return true; // Replace with your implementation
     }
 
     // TODO: Implement a method to find the longest word in a string
@@ -82,4 +82,4 @@ public class FunctionsAssignment {
     }
 
     
-}sssssss
+}
